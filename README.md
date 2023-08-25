@@ -95,8 +95,8 @@ This project includes the following features:
 ## To do
 
 - [ ] Add more loading animations.
-- [ ] Optimize for mobile devices.
-- [ ] Update README.md images.
+- [X] Optimize for mobile devices.
+- [X] Update README.md images.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -123,3 +123,16 @@ Thank you for reporting bugs! If you would like to contribute with code, you can
 This project is licensed under the MIT License.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+[contributors-shield]: https://img.shields.io/github/contributors/voaneves/loading.svg?style=for-the-badge
+[contributors-url]: https://github.com/voaneves/loading/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/voaneves/loading.svg?style=for-the-badge
+[forks-url]: https://github.com/voaneves/loading/network/members
+[stars-shield]: https://img.shields.io/github/stars/voaneves/loading.svg?style=for-the-badge
+[stars-url]: https://github.com/voaneves.com/loading/stargazers
+[issues-shield]: https://img.shields.io/github/issues/voaneves/loading.svg?style=for-the-badge
+[issues-url]: https://github.com/voaneves/loading/issues
+[license-shield]: https://img.shields.io/github/license/voaneves/loading.svg?style=for-the-badge
+[license-url]: https://github.com/voaneves/loading/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/voaneves
