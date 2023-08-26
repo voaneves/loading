@@ -82,7 +82,7 @@ This project includes the following features:
 1. Clone this repository to your machine:
 
    ```bash
-   git clone https://github.com/your-username/loading.git
+   git clone https://github.com/voaneves/loading.git
   
 2. Open the index.html file in a web browser.
 
