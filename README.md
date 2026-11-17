@@ -29,6 +29,10 @@
   </p>
 </div>
 
+> **EN:** A collection of CSS loading animations (CodePen embeds by various authors) shown on a static PWA page.
+
+Coleção de animações de carregamento em CSS, exibidas numa página estática (PWA). Demo: https://voaneves.github.io/loading/
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -129,10 +133,10 @@ This project is licensed under the MIT License.
 [forks-shield]: https://img.shields.io/github/forks/voaneves/loading.svg?style=for-the-badge
 [forks-url]: https://github.com/voaneves/loading/network/members
 [stars-shield]: https://img.shields.io/github/stars/voaneves/loading.svg?style=for-the-badge
-[stars-url]: https://github.com/voaneves.com/loading/stargazers
+[stars-url]: https://github.com/voaneves/loading/stargazers
 [issues-shield]: https://img.shields.io/github/issues/voaneves/loading.svg?style=for-the-badge
 [issues-url]: https://github.com/voaneves/loading/issues
 [license-shield]: https://img.shields.io/github/license/voaneves/loading.svg?style=for-the-badge
-[license-url]: https://github.com/voaneves/loading/blob/master/LICENSE.txt
+[license-url]: https://github.com/voaneves/loading/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/voaneves
