@@ -1,0 +1,46 @@
+{
+  "repo": "loading",
+  "branch": "main",
+  "lang": "en",
+  "license": "MIT",
+  "name": "loading",
+  "tagline": "A collection of CSS loading animations from around the web, on one static page.",
+  "description": "Concept page with a collection of CSS loading animations by various authors, shown as a static PWA.",
+  "logo": {
+    "existing": "assets/img/loading-logo.gif"
+  },
+  "buttons": [
+    {
+      "id": "live",
+      "text": "See the animations",
+      "kind": "primary",
+      "font": "sans",
+      "href": "https://voaneves.github.io/loading/"
+    },
+    {
+      "id": "start",
+      "text": "Getting started",
+      "kind": "secondary",
+      "font": "sans",
+      "href": "https://github.com/voaneves/loading#getting-started"
+    },
+    {
+      "id": "hire",
+      "text": "Let's talk",
+      "kind": "primary",
+      "font": "sans",
+      "href": "https://voaneves.com/en/#contact",
+      "landing": false
+    },
+    {
+      "id": "site",
+      "text": "voaneves.com",
+      "kind": "secondary",
+      "font": "sans",
+      "href": "https://voaneves.com/en/",
+      "landing": false
+    }
+  ],
+  "landing": false,
+  "live_url": "https://voaneves.github.io/loading/"
+}
