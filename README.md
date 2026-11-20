@@ -2,7 +2,11 @@
 
 <div align="center">
 
-<img alt="loading logo" src="https://raw.githubusercontent.com/voaneves/loading/main/assets/img/loading-logo.gif" width="200" height="108" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/voaneves/loading/main/assets/logo/logo-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/voaneves/loading/main/assets/logo/logo-light.svg" />
+  <img alt="loading logo: a dashed loading ring, with a red dot for the spinner head" src="https://raw.githubusercontent.com/voaneves/loading/main/assets/logo/logo-light.svg" width="112" height="112" />
+</picture>
 
 <h1>loading</h1>
 

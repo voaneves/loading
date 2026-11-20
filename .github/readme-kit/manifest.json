@@ -7,6 +7,7 @@
   "tagline": "A collection of CSS loading animations from around the web, on one static page.",
   "description": "Concept page with a collection of CSS loading animations by various authors, shown as a static PWA.",
   "logo": {
+    "glyph": "ring",
     "existing": "assets/img/loading-logo.gif"
   },
   "buttons": [
